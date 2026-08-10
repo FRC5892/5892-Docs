@@ -108,6 +108,4 @@ nav:
         - Mounting: guides/lumaswitch/mounting.md
         - Wiring: guides/lumaswitch/wiring.md
         - Troubleshooting: guides/lumaswitch/troubleshooting.md
-  - LoggedTalonFX:
-      - Placeholder: loggedtalonfx/placeholder.md
   - Contributing: contributing.md
