@@ -27,6 +27,10 @@ The **Luma P1** is an affordable, FRC-focused vision co-processor and camera sys
 
 Under the hood, the Luma P1 is built around a **Raspberry Pi Compute Module 5 (CM5)** and runs [PhotonVision](https://photonvision.org/) as its vision processing software. It can stream in both 1280x800 and 600x400 resolution. 
 
+!!! warning "Object Detection" 
+    The Luma P1 does not currently support object or gamepiece detection, and only is capable of apriltag detection, alignment, and positioning. 
+    If gamepiece/object detection is desired, a combination of Luma P1s and other cameras will have to be used. !!!
+
 ## How It Compares
 
 If you have used a Limelight before, the Luma P1 will feel familiar—it is similar to running a Limelight with PhotonVision. The key differences are:
