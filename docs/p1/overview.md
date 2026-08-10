@@ -29,7 +29,7 @@ Under the hood, the Luma P1 is built around a **Raspberry Pi Compute Module 5 (C
 
 !!! warning "Object Detection" 
     The Luma P1 does not currently support object or gamepiece detection, and only is capable of apriltag detection, alignment, and positioning. 
-    If gamepiece/object detection is desired, a combination of Luma P1s and other cameras will have to be used. !!!
+    If gamepiece/object detection is desired, a combination of Luma P1s and other cameras will have to be used. 
 
 ## How It Compares
 
