@@ -28,9 +28,6 @@ We value knowledge sharing and continuous improvement. If you notice an error or
 - :material-rocket-launch: **[Luma](p1/overview.md)**  
     Start here for Luma P1 and LumaSwitch documentation.
 
-- :material-chip: **[LoggedTalonFX](loggedtalonfx/placeholder.md)**  
-    Placeholder for upcoming LoggedTalonFX documentation.
-
 - :material-source-pull: **[Contributing](contributing.md)**  
     Learn how to contribute—corrections, additions, and improvements are always welcome!
 
